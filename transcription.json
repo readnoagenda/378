@@ -1,4 +1,5 @@
 {
+    "bytes_total": 115482234, 
     "links": [
         {
             "url": "http://www.noagendashow.com/", 
@@ -22,6 +23,7 @@
         }
     ], 
     "title": "No Agenda Episode 378 (2012-01-29) \"Pooper & Blitzer\"", 
-    "audio_url": "http://m.podshow.com/media/15412/episodes/310058/noagenda-310058-01-29-2012.mp3",
-    "homepage_url": "http://378.nashownotes.com/"
+    "audio_url": "http://m.podshow.com/media/15412/episodes/310058/noagenda-310058-01-29-2012.mp3", 
+    "homepage_url": "http://378.nashownotes.com/", 
+    "duration": 9619043
 }
