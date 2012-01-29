@@ -1,0 +1,27 @@
+{
+    "links": [
+        {
+            "url": "http://www.noagendashow.com/", 
+            "title": "No Agenda Show"
+        }, 
+        {
+            "url": "http://readnoagenda.com/", 
+            "title": "Read No Agenda Wiki"
+        }, 
+        {
+            "url": "http://readnoagenda.com/wiki/Style_guidelines", 
+            "title": "Style Guidelines"
+        }, 
+        {
+            "url": "http://378.nashownotes.com/", 
+            "title": "Episode 378 Shownotes"
+        }, 
+        {
+            "url": "http://dvorak.org/na/", 
+            "title": "Donate (Giving is love!)"
+        }
+    ], 
+    "title": "No Agenda Episode 378 (2012-01-29) \"Pooper & Blitzer\"", 
+    "audio_url": "http://m.podshow.com/media/15412/episodes/310058/noagenda-310058-01-29-2012.mp3",
+    "homepage_url": "http://378.nashownotes.com/"
+}
