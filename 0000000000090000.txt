@@ -11,5 +11,5 @@ jd; Officiate? You want me to marry you?
 ac; Well, you're allowed to, right?
 jd; Yeah
 ac; Yeah, but I don't know if you can do it, if you can pull it off without being a jerk
-jd; Well I'm not a jerk 24/7
+jd; Well I'm not a jerk twenty four seven (24/7).
 
