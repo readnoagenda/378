@@ -4,27 +4,14 @@
             "timestamp": 1327893357.25396, 
             "secret": "SUDaVTklHcevUbaR"
         }, 
-        "0": {
-            "timestamp": 1327894189.388516, 
-            "secret": "gJOcRwZgVxdcQNSx"
-        }, 
         "780000": {
             "timestamp": 1327893412.438477, 
             "secret": "OeGSnYobJQxcWjQf"
-        }, 
-        "30000": {
-            "timestamp": 1327894189.388516, 
-            "secret": "wQPbBEbBVofNWWfF"
         }, 
         "630000": {
             "timestamp": 1327893506.779492, 
             "secret": "cYfzScQceLYhDLpJ"
         }
     }, 
-    "review": {
-        "0": {
-            "timestamp": 1327894189.388516, 
-            "secret": "YdCUWeUkzlBHYnSP"
-        }
-    }
+    "review": {}
 }
