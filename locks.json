@@ -1,18 +1,4 @@
 {
-    "snippet": {
-        "600000": {
-            "timestamp": 1327980729.279585, 
-            "secret": "CIgLDJcTPWegKLHQ"
-        }, 
-        "570000": {
-            "timestamp": 1327980729.279585, 
-            "secret": "tDCdUtYWImcYmAUL"
-        }
-    }, 
-    "review": {
-        "570000": {
-            "timestamp": 1327980729.279585, 
-            "secret": "dSAUzrASqKEImCAj"
-        }
-    }
+    "snippet": {}, 
+    "review": {}
 }
