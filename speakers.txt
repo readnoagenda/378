@@ -1,5 +1,6 @@
 ac; Adam Curry
 jd; John C. Dvorak
+hc; Hillary Clinton
 
 j; Jingle
 x; SFX
