@@ -1,7 +1,7 @@
-jd;  "Citizen John and Citizen Adam, ITM to you both.  Can I get a little karma and can you play the No Agenda National Anthem?  It's been months since you played it!  Congratulations to Adam and Miss Micky, and finally a shout-out to my good friend I.T. Ninja."  Citizen Klink
+jd;  "Citizen John and Citizen Adam, ITM to you both.  Can I get a little karma and can you play the No Agenda National Anthem?  It's been months since you played it!  Congratulations to Adam and Miss Micky, and finally a shout-out to my good friend IT Ninja."  Citizen Klink
 j;  [Hey Citizen]
 ac;  OK, so lets give him some karma and we will do the Gitmo Nation Anthem.  It's true, we haven't done that in a long time
-jd;  Do the Gitmo Nation Anthem at the end of the show
+jd;  Do the Gitmo Nation Anthem at the end of the show.
 ac;  Why don't we do it now, what difference does it make?
 jd;  Well, ok, let me read the last Todd Symmons donation first so we
 ac;  First let me give him some karma, he deserves the karma he asked for
