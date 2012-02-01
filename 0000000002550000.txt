@@ -1,0 +1,11 @@
+c1; We need an ambulance here as soon as possible
+c2; She smoked something, it's not marijuana
+c3;  Demi's emergency after smoking a potentially dangerous substance.  New clues from the just-released frantic call for help
+c4;  What did she take?
+c5;  Some form of [bleeped]and then she smoked something
+c6;  I'm Matt [inaudible]at the fire station, where paramedics heard the full nine one one [911] call
+c7;  Could she have been smoking something called Spice?
+c8;  It can have some very severe side effects
+c9;  Demi can you hear me?
+c10; She is burning up
+c11; Plus, Ashton back home and getting grilled
