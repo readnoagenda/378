@@ -1,5 +1,7 @@
-ac;  to design an app.  You know, we've had these, right?  This was Vivek Kundra's, uh he kind of pioneered this amongst the idiot politicians and government.  To design an app using government information.  The winner:  the app that shows you the nearest public toilet.
-jd;  Yeah, I know, he talked about that, how important that would be.  Or how cool that would be he would say
+ac; This was Vivek Kundra's, uh he kind of pioneered this amongst the idiot politicians and government.  
+To design an app using government information.  The winner:  the app that shows you the nearest public toilet.
+jd;  Yeah, I know, he talked about that, how important that would be.  
+Or how cool that would be he would say
 ac;  But, this actually won the Dutch National prize.
 jd;  [laughs]
 ac;  Of all the government information
