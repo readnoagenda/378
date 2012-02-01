@@ -1,4 +1,3 @@
-ac;dashboard wasn't performing right, or something.
 jd;Well I'm... no, it's not only up there, but it shows it as, with a bunch of subheads, which is weird for Google when they have all the stuff like data by sector, country, offices.
 So I hit any of these, and they're all dead.
 FAQ, F.A.Q., here's a FAQ - nothing.
