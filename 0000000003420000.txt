@@ -4,4 +4,4 @@ ac; Yeah, I will.
 c2; (NIH employee) We're able to...that we're interested in...
 ac; Yeah, he said, "We're able to".
 jd; Oh, that "we're able to".
-ac; What he's trying to say is we're able to diagnose this. Remember that Sanjay Gupta was saying,
+ac; What he's trying to say is we're able to diagnose this.
