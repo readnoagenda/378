@@ -1,4 +1,3 @@
-jd; [Quoting] "... view of US foreign assistance funds, and enables users to examine, research and track investments."
 jd; So I click.
 x; Drumming sound.
 jd; Nope. Goes right to "foreign assistance dot gov, server not found".
