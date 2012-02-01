@@ -5,4 +5,4 @@ ac;  Oh yes, ok I'm sorry, here we go
 c1;  Ashton Kutcher back home and confronted about cheating  
 c2;  And Demi Moore convulsing during her nine one one [911] call, what she smoked that led to the emergency.  I'm Kevin Frasier. 
 c1; And I'm Brooke Anderson
-j; [The Insider is on..]
+c; [The Insider is on..]
