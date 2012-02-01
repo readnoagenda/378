@@ -1,10 +1,8 @@
-c; (Speaker 1)Trichloroethylene.  Is that the same thing that was in your story that became a movie.
-c; (Erin Brockovich)No.  Hinkley was Hexavalent Chromium
-c; (Speaker 1)Trichloroethylene is a well know carcinogen.  Can it also call these sorts of neurological problems?
-c; (Erin Brockovich)I have read and been involved in cases that we have that.
-
+ceb; No. Hinkley was Hexavalent Chromium
+cdd; Trichloroethylene is a well know carcinogen.  Can it also call these sorts of neurological problems?
+ceb; I have read and been involved in cases that we have that...
 ac;  Ughhhh
-jd;  She's not.  I see where this is headed.
+jd;  She's not. I see where this is headed.
 ac;  Right so...and it goes on and on and I have the clip in the show notes at 378.nashownotes.com.
 jd;  This is bogus
 ac;  Totally bogus.
