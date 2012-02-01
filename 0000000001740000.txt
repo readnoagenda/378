@@ -5,4 +5,4 @@ chc;  That will skip Internet Explorer Nine (9) completely
 ac; Woot! 
 chc; and deploy Internet Explorer Ten (10), on or before February of next year.
 ac;Yes [claps] Yes
-chc; So we are moving, moving moving
+chc; So we are moving, moving moving. And prodding, prodding, prodding...
