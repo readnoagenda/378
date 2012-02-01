@@ -4,7 +4,7 @@ ac; Which version?
 jd; 6
 ac; Close
 chc; [applause] That's my Valentine present to all of you
-ac; Awww, lovely...
+ac; Awww! lovely!
 chc; ...Internet Explorer 8 will be deployed on March 20th
 ac; They're on 7 still, [laughing]
 jd; That would make sense
