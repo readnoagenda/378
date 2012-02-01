@@ -11,3 +11,4 @@ c3; Clip (Speaker 3)
 chc; Clip (Hillary Clinton)
 gna; Gitmo Nation National Anthem
 cdd; Clip (Dr. Drew)
+ceb; Clip (Erin Brockovich)
