@@ -1,8 +1,7 @@
-ac;Please enter that into your browsers right now.
-www.foreignassistance.gov
+ac; www.foreignassistance.gov
 You tell me what you see on the dashboard.
-jd;[inaudible]
-ac;Tell me what you see on the dashboard.
+jd; Well, let's see..
+ac; Tell me what you see on the dashboard.
 Do you have it John?
 Did you see it on the dashboard?
 jd;I'm making sure... I'm getting there.
