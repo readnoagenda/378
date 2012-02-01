@@ -1,7 +1,3 @@
-ac; Pull the plug!
-jd; OK, bye!
-ac; Yeah, I'm pulling the plug.
-jd; Pull the plug on these sites.
 ac; Yeah, yeah. Possibly.
 jd; A lot of guys do that.
 ac; Oh, yeah!

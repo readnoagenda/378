@@ -2,6 +2,6 @@ ac;  Well, half the people in Virginia worked for him, so it's "like, he'd just 
 [reading] Aneesh found countless ways to engage the American people using technology, from electronic health records for veterans to expanding access to broadband for rural communities."
 jd;  So do you think it's possible that the web site we can't hit is his throwing a wrench in the works with one of his buddies?
 ac;  Sure
-jd;  You fired me, I'm done, ok, hey, bye
+jd;  You fired me, I'm done, okay, bye
 ac;  Pull the plug, I'm pulling the plug
 jd;  Pull the plug on these sites
