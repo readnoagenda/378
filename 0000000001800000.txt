@@ -1,5 +1,4 @@
-ac; the federal government's first Chief Technology Officer, Aneesh Chopra, did groundbreaking work to bring our government into the twenty-first century.
-In other words: he couldn't keep the Microsoft contract. Google won out.
+ac;In other words: he couldn't keep the Microsoft contract. Google won out.
 They got Chrome deployed.
 He's out of there.
 jd; That's interesting.
