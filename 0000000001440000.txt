@@ -3,7 +3,7 @@ x; Drumming sound.
 jd; Nope. Goes right to "foreign assistance dot gov, server not found".
 ac; Let me try it on firefox.
 jd; Now it seems like an unlikely coincidence that, while we're doing the show it's down, and it's not down a lot.
-ac; Nyo. It's been down since this morning; I've been watching. I only, I only saw this--
+ac; No. It's been down since this morning; I've been watching. I only, I only saw this--
 jd; Maybe they don't work on Sunday.
 ac; And if you ping it, there's no server on the other end.
 jd; Wait a minute, I get -- this is interesting. There's another link.
