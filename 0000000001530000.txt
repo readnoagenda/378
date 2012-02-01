@@ -2,5 +2,5 @@ jd; Ahh, Okay.
 c; [Applause]
 chc; [Laughing]
 ac; It was a good question, as you can tell.
-ac; [Sarcastic] Ha ha ha ha ha ha ha ha heh heh heh heh! Very good question! heh heh heh heh heh heh hnah.
+[Sarcastic] Ha ha ha ha ha ha ha ha heh heh heh heh! Very good question! heh heh heh heh heh heh hnah.
 chc; I remember the first time, um, I did a, uh, a town hall, and I, I think I, I was, I was asked about, uh, this. Uhh, I hope you agree we've made progress, um, we continue to make progress.
