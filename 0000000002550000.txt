@@ -1,7 +1,7 @@
 c3; We need an ambulance here as soon as possible. She smoked something and it's not marijuana.
 c2;  Demi's emergency after smoking a potentially dangerous substance.  New clues from the just-released frantic call for help
-c3;  What did she take?
-c4;  Some form of [bleeped] and then she smoked something
+c4;  What did she take?
+c3;  Some form of [bleeped] and then she smoked something
 c5;  I'm Matt [inaudible] at the fire station, where paramedics heard the full nine one one [911] call
 c2;  Could she have been smoking something called Spice?
 c6;  It can have some very severe side effects
