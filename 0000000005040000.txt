@@ -1,6 +1,5 @@
-ac;  wherever they're at, wherever they're at, but he doesn't know the answer.  He doesn't even know the answer.
-jd;  Cause there is no answer
-ac;  He should be fired for not knowing the answer
+jd;  Because there is no answer
+ac;  He should be fired for not knowing the answer.
 jd; There's no answer.  Everyone's freelancing and shooting all over the place. Why don't you just admit it?
 ac; [laughs]
 jd;  There is no answer
