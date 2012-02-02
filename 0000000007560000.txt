@@ -1,17 +1,17 @@
-ac; In nineteen, forty-three [1943] "However, problems could be with the Troika! Who, are coming in with the.."
+ac; "However, problems could be with the Troika! Who, are coming in to.."
 jd; Sounds a little more like nineteen, forty-one [1941] actually.
 ac; "Hello? Hello?"
 jd; But..
 ac; "Hello, to all ships at sea! It looks like the Troika's coming in to execute the German plan.
 The Germans will be taking over from the Troika!"
 jd; That's not bad!
-c; I'm popular with-
+c; Unpopular with-
 jd; That's one of your best! I like that!
-ac; I'll try to work on it some more.
-c; Fullness, I
+ac; I'll try and work on it some more.
+c; Fullness,
 jd; Yeah, work on it some more. I'll write you a script, you talk like that, you can-
 ac; "Hello to all ships at sea!"
-jd; Hook it up to Audacity. There are are a bunch of filters in there.
+jd; screw it up with Audacity. There are some really cool filters in there.
 ac; Filters.
 jd; You can made it sound like it's the forties ['40s]
 ac; "Let's get back to our report."
