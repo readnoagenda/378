@@ -1,5 +1,4 @@
-jd; -cicso, California. 100 dollars [$100]
-"Can I get some karma for the newly-weds, Bob and Jenny?"
+jd; "Could I get some karma for the newly-weds, Bob and Jenny?"
 ac: Yes, of course.
 Bob and Jenny, here you go.
 j; [You've got karma.]
