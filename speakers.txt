@@ -20,3 +20,4 @@ gna; Gitmo Nation National Anthem
 cdd; Clip (Dr. Drew)
 ceb; Clip (Erin Brockovich)
 cia; Clip (Intuniv advertisement)
+clp; Clip (Leon Panetta)
