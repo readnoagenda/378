@@ -1,4 +1,4 @@
-ac;  exactly.  Secretary of Defense is head and chief executive officer of the Department of Defense, executive department of the governing...uh, this position corresponds to what is generally known as Defense Minister
+ac; Ah.. Secretary of Defence is head and Chief Executive Officer of the Department of Defence, executive department of the governing...uh, this position corresponds to what is generally known as Defense Minister
 jd;  September eighteenth [18] nineteen forty seven [1947]
 ac; is that when it changed?
 jd; that's when it ended.  the war department existed until forty seven [47] then it was re-established in nineteen forty nine [1949] as the United States Department Of Defense.
