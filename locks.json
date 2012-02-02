@@ -3,20 +3,7 @@
         "6720000": {
             "timestamp": 1328172737.734668, 
             "secret": "bXtXbuSrsRjDpfoX"
-        }, 
-        "5430000": {
-            "timestamp": 1328172821.299438, 
-            "secret": "GEQSPuHFnWZqpGbu"
-        }, 
-        "5400000": {
-            "timestamp": 1328172821.299438, 
-            "secret": "CSRXPaLKGnezSspL"
         }
     }, 
-    "review": {
-        "5400000": {
-            "timestamp": 1328172821.299438, 
-            "secret": "qIcrMcuqMFWoZuKs"
-        }
-    }
+    "review": {}
 }
