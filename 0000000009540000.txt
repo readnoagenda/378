@@ -6,4 +6,4 @@ ac; You might want to consider using something else, like Gopher.
 jd; -laughing-
 ac; I'm just sayin'. Eh, Gopher worked fine.
 jd; Get the old code for Web Crawler and just do it yourself.
-ac; Gopher worked great. I loved Gopher. Hey please, uh, check out the show notes three seven eight dot na show notes dot com (378.nashownotes.com) uh,
+ac; Gopher worked great. I loved Gopher. Hey please, uh, check out the show notes three seven eight dot na show notes dot com [378.nashownotes.com] uh,
