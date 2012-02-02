@@ -1,0 +1,12 @@
+jd; Magic number.
+"I want this donation to go toward Andrew Gardiner's knighthood, and,"
+Oh, this is, some accounting has to be done here..
+"And give him a birthday shoutout and karma for his birthday on the twenty ninth (29th). Can you do a birthday ringtone for him? Maybe "Happy birthday slave" and a slide whistle."
+ac; Ok, I'll
+jd; Do you want to do "happy birthday slave" and I'll give him the slide whistle?
+ac; I'll do, ah, I'll do "Hey Citizen, happy birthday slave" and you'll do the slide whistle, OK. Ready?
+jd; Yeah.
+ac; Ready.
+j; Hey Citizen.
+ac; Happy birthday slave.
+x; Crazy slide whistling.
