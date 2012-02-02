@@ -1,7 +1,7 @@
-c2; [Long pause] It's a good question. [Laughs] But you know it's, ah
+cp; [Long pause] It's a good question. [Laughs] But you know it's, ah
 c1; You'd have to stop and count.
 ac; [Over clip: sarcastic laughter]
-c2; I'll have to stop and think about that, because, ah
+cp; I'll have to stop and think about that, because, ah
 ac; 'Cause I'm just killing people everywhere!! 
 jd; Can I make a point?
 ac; Yeah.
@@ -9,7 +9,7 @@ jd; It's not a good question.
 ac; [Laughing] It's a great--
 jd; Who's he kidding? This is not a good question. At least he didn't say it was a great question.
 ac; [Still laughing] It was close enough.
-c2; You know, obviously, ah, we're going after Al-Qaeda wherever they're at.
+cp; You know, obviously, ah, we're going after Al-Qaeda wherever they're at.
 ac; Nup. That's right. Wherever they're at. Wherever they're at. Wherever they're at.
 jd; [Inaudible], Canada.
 ac; But he doesn't know the answer.
