@@ -1,9 +1,9 @@
 ac; [Laughing]
 jd; "If you want to take a real vacation, I have a Jersey shore house on the boardwalk in beautiful Point Pleasant, Jersey, that I'd donate for Adam and Miss Micky--"
-What about me!
+What about me?"!
 ac; [Laughing] Oh by the way--
 jd; Don't I get to go?
-ac; I'm, I'm, I'm good, we'll go to your boardwalk home. Thankyou. The only reason we were in Droneaire is because, err, you know, it was free! Kidding me? Free!
+ac; I'm, I'm, I'm good, we'll go to your boardwalk home. Thank you. The only reason we were in Drone-aire is because, err, you know, it was free! Kidding me? Free!
 jd; Well Grasepho's got a free place too.
 ac; Cool.
 jd; So we'll mention to Eric, uh, uh
