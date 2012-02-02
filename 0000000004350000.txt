@@ -1,4 +1,4 @@
-c1; Intuniv may affect the ability to drive or use machinery.  Other side effects include nausea, tiredness, trouble sleeping, stomach pain and dizziness.  Tell your doctor about your child's medicines and medical conditions including heart, liver or kidney problems.
+c1;  Other side effects include nausea, tiredness, trouble sleeping, stomach pain and dizziness.  Tell your doctor about your child's medicines and medical conditions including heart, liver or kidney problems.
 c2; Adding Intuniv helped Eric.
 c1; Ask your doctor about once-daily, non-stimulant Intuniv.
 ac; So, it's in addition to your Ritalin?  You gotta give the kid Intuniv?
