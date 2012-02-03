@@ -1,5 +1,3 @@
-ac; That's a new donation amount, 48.14.
-jd; That's a good number.
 ac; Yeah. But it has to be anonymous.
 No, actually, if you do 48.14, I think that deserves a mention.
 jd; No, we've got these rules.
