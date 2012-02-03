@@ -5,21 +5,22 @@
             "url": "http://www.noagendashow.com/", 
             "title": "No Agenda Show"
         }, 
+        {"url": "http://378.nashownotes.com/", "title": "Episode 378 Shownotes"},
         {
             "url": "http://readnoagenda.com/", 
-            "title": "Read No Agenda Wiki"
+            "title": "Read No Agenda"
         }, 
         {
             "url": "http://readnoagenda.com/wiki/Style_guidelines", 
             "title": "Style Guidelines"
         }, 
-        {
-            "url": "http://378.nashownotes.com/", 
-            "title": "Episode 378 Shownotes"
-        }, 
+     	{
+	    "url": "http://readnoagenda.com/stats/transcript_378.readnoagenda.com.html",
+	    "title": "Transcript Stats"
+	},
         {
             "url": "http://dvorak.org/na/", 
-            "title": "Donate (Giving is love!)"
+            "title": "DONATE to No Agenda",
         }
     ], 
     "title": "No Agenda Episode 378 (2012-01-29) \"Pooper & Blitzer\"", 
